@@ -3,7 +3,7 @@
   <a href="https://discord.gg/piratearif">Discord</a> |
   <a href="https://www.youtube.com/channel/piratearif?sub_confirmation=1">YouTube</a> |
   <a href="https://github.com/piratearif">Github</a><br><br>
-  <img src="https://user-images.githubusercontent.com/34863281/231957123-ae019b80-d61f-4bca-b345-13cb4cf4521e.jpg" style="width: 80%">
+  <img src="https://user-images.githubusercontent.com/34863281/235225942-5f2c6278-96b6-4815-98c5-e952dfa6b7d5.jpg" style="width: 80%">
 </p>
 
 ##   
